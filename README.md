@@ -1,7 +1,6 @@
 # restaurants-app
 
-App based on Postgres, Express, React and Node.
+App based on PostgreSQL, Express, React and Node.
 
-The app and the Postgres DB are hosted on a ubuntu server using nginx and AWS EC2 services. 
+The app and the Postgres DB were configured to be hosted on a ubuntu server using nginx and AWS EC2 services (they aren't deployed anymore). 
 
-Access to the app at the Public IP: [18.184.159.112](http://18.184.159.112)
